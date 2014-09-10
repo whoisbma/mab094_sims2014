@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>03A43DEB-E5D8-4A60-B935-778EBC36523B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>02_h01_waterSplash</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6D6024BD-CE4E-4F0D-B03E-294C8A4A1924</key>
+		<string>https://github.com/whoisbma/mab094_sims2014.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>02_h01_waterSplash/02_h01_waterSplash.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6D6024BD-CE4E-4F0D-B03E-294C8A4A1924</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/whoisbma/mab094_sims2014.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6D6024BD-CE4E-4F0D-B03E-294C8A4A1924</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6D6024BD-CE4E-4F0D-B03E-294C8A4A1924</string>
+			<key>IDESourceControlWCCName</key>
+			<string>cc simulations</string>
+		</dict>
+	</array>
+</dict>
+</plist>
